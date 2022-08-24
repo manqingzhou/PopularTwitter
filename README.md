@@ -5,8 +5,8 @@ Library: Twint, Pygithub, NLP
 
 ## PROBLEM
 
-##ENVIROMENT
+## ENVIROMENT
 
-##WORKFLOW
+## WORKFLOW
 
-##RESULT
+## RESULT
